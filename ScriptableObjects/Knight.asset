@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf8184a3fc7be6f4f8f176b2f55185d2, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 92166806531756383, guid: 046ef267862ba8b459af81ceb46e0ff1, type: 3}
+  weaponSO: {fileID: 11400000, guid: 8bac5ea14112d1649a8f669fac3e7d7b, type: 2}
+  armourSO: {fileID: 11400000, guid: f1da44ba2fff4f24fa33196efffc7f99, type: 2}
